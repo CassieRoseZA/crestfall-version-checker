@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "message": "\n- Rewrote enchant selection with pagination, clearer controls",
+  "version": "2.0.2",
+  "message": "\n- Multiple Bug Fixes",
   "critical": false
 }
